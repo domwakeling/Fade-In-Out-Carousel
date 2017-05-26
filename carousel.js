@@ -51,5 +51,5 @@ var altArr = ['Snowsport England', 'Snowsport Scotland', 'Snowsport Wales'];
 var urlArr = ['http://snowsportengland.org.uk/', 'http://www.snowsportscotland.org/', 'http://www.snowsportwales.co.uk/'];
 
 $(document).ready(function() {
-    var car1 = new Carousel('carousel', imgArr, altArr, urlArr, 500, 2000);
+    var car1 = new Carousel('carousel', imgArr, altArr, urlArr, 500, 4000);
 });
