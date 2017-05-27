@@ -14,11 +14,13 @@ each image change. This is ideal to show sponsor logos.
 </a>
 ```
 
-* In your Javascript, in your ```$(document).ready()``` function, include
-a call to make a new Carousel object
+* In your Javascript, includes the definition of ```function Carousel``` and include a call to make a new Carousel object in your ```$(document).ready()``` function
 
 ```
-var carousel = new Carousel(<parameters>)
+$(document).ready(function() {
+    ...
+    var carousel = new Carousel(<parameters>)
+});
 ```
 
 The parameters to be passed, in order, are:
