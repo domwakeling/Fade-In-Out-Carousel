@@ -2,8 +2,6 @@
  *
  *  To use:
  *  - insert an <a href><img/></a> block in your HTML
- *  - give the initial default img and href for the link
- *  - apply class .imgSq to first image and .imgWi to second image (example)
  *  - call a block var carousel = new Carousel(....) in $(document).ready
  *
  *  Parameters to be passed:
