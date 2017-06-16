@@ -1,4 +1,4 @@
-# Fade In/Out Carousel with jQury
+# Fade In/Out Carousel with jQuery
 
 A simple implementation for an image carousel, showing a series of images in
 turn with fadeout/in transitions. Images are inside a link which updates with
@@ -28,5 +28,5 @@ The parameters to be passed, in order, are:
  *  ```imgArr```, array of image sources (as strings)
  *  ```altArr```, array of 'alt' tags for the images (as strings)
  *  ```urlArr```, array of URLs for links (as strings)
- *  ```fadeTime```, time (in miliseconds) for the fadeOut/fadeIn
- * ```pauseTime```, time (in miliseconds) to show each image
+ *  ```fadeTime```, time (in milliseconds) for the fadeOut/fadeIn
+ * ```pauseTime```, time (in milliseconds) to show each image
